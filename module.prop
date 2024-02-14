@@ -1,0 +1,6 @@
+id=adguardhome
+name=adguardhome
+version=v1
+versionCode=1
+author=InternetBugs
+description=开机自启动adguardhome
